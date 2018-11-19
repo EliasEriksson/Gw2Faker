@@ -82,7 +82,12 @@ class Faker:
         return " ".join([str(c) for c in b64.b64decode(game_link)])
 
     @staticmethod
-    def timer():
+    def timer() -> None:
+        """
+        extra time so so messages are sent at random intervals to anets servers
+
+        :return: None
+        """
         sleep(random.randint(10, 30) / 1000)
 
     def process_links(self, links: list) -> None:
