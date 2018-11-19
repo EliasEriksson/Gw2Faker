@@ -1,0 +1,37 @@
+{
+  "keybind": ["lctrl", "rctrl"],
+
+  "spam_settings": {
+    "min_spam": 3,
+    "max_spam": 4
+  },
+
+  "kp": {
+    "li": "[&AgH2LQEA]",
+
+    "vg": "[&AgGJLwEA]",
+    "gorse": "[&AgG3LwEA]",
+    "sab": "[&AgGgLwEA]",
+
+    "sloth": "[&AgGKLwEA]",
+    "matt": "[&AgFvLwEA]",
+
+    "escort": "[&AgEZNAEA]",
+    "kc": "[&AgE2NAEA]",
+    "xera": "[&AgFeNAEA]",
+
+    "cairn": "[&AgHvOgEA]",
+    "mo": "[&AgGNOQEA]",
+    "sam": "[&AgHXOAEA]",
+    "deimos": "[&AgGeOgEA]",
+
+    "desmina": "[&AgHpTwEA]",
+    "river": "[&AgEZTwEA]",
+    "statues": "[&AgEoTwEA]",
+    "dhuum": "[&AgGBTgEA]",
+
+    "ca": "[&AgHfWQEA]",
+    "largos": "[&AgEcWwEA]",
+    "qadim": "[&AgFFWgEA]"
+  }
+}
