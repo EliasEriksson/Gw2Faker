@@ -1,3 +1,3 @@
-from v3 import Faker
+from v4 import Faker
 
 Faker().run()
