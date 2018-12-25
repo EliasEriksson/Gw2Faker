@@ -1,5 +1,8 @@
 {
+
   "keybind": ["lctrl", "rctrl"],
+
+  "path_to_AutoHotKey.exe": "F:\\Program\\AHK\\AutoHotkey.exe",
 
   "spam_settings": {
     "min_spam": 3,
@@ -8,6 +11,7 @@
 
   "kp": {
     "li": "[&AgH2LQEA]",
+    "leach": "[&AgH2LQFAF2AAAA==]",
 
     "vg": "[&AgGJLwEA]",
     "gorse": "[&AgG3LwEA]",
@@ -32,6 +36,10 @@
 
     "ca": "[&AgHfWQEA]",
     "largos": "[&AgEcWwEA]",
-    "qadim": "[&AgFFWgEA]"
+    "qadim": "[&AgFFWgEA]",
+
+    "boso": "[&AgHrNwEA]",
+    "coso": "[&AgFGNgEA]",
+    "foso": "[&AgGBNgEA]"
   }
 }
